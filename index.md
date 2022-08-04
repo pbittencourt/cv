@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Pedro Pompermayer Bittencourt
 
-You can use the [editor on GitHub](https://github.com/pbittencourt/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Cientista e analista de dados | Educador
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" width="12" height="12"> [Email](mailto:contato@pedrobittencourt.com.br) <br>
+<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/firefox.svg" width="12" height="12"> [Website](https://www.pedrobittencourt.com.br) <br>
+<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" width="12" height="12"> [Linkedin](https://www.linkedin.com/in/pedropbittencourt) <br>
+<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="12" height="12"> [Github](https://github.com/pbittencourt) <br>
 
-### Markdown
+## Formação
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**MBA em Data Science & Analytics** pela *Universidade de São Paulo* (ESALQ/USP), campus de Piracicaba. Conclusão em 2023.
 
-```markdown
-Syntax highlighted code block
+**Licenciatura em Física** pela *Universidade Estadual Julio de Mesquita Filho* (FEG/UNESP), campus de Guaratinguetá. Concluída em 2009.
 
-# Header 1
-## Header 2
-### Header 3
+## Experiência profissional
 
-- Bulleted
-- List
+**Ânima Educação**, São Paulo.
+*Janeiro de 2021* &mdash; *Atual*
 
-1. Numbered
-2. List
+## Desenvolvimentos & Análises de dados
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pbittencourt/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Produções relacionadas
