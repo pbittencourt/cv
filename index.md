@@ -57,4 +57,37 @@ Atuei como professor plantonista de física do ensino médio e de curso pré-ves
 
 ## Desenvolvimentos & Análises de dados
 
+### Scientific Computing with Python
+
+*[Certificado](https://bit.ly/3nUKZiq) emitido por freeCodeCamp em 29 de setembro de 2020*
+
+Com duração equivalente de 300 horas, a certificação aborda os fundamentos de Python (tipos primitivos, estruturas condicionais, funções e objetos), com ênfase em análise de dados. Explora-se leitura e escrita de dados em arquivos de texto, nos formatos CSV, XML e JSON, webscraping com os módulos urllib e bs4, utilização de APIs para obtenção de informações e uso de bancos de dados relacionais.
+
+Para obtenção do certificado, foram realizados cinco projetos, que podem ser conferidos [neste repositório](https://bit.ly/3q0Zh2K).
+
+### Python for Data Science: Intermediate
+
+*[Certificado](https://bit.ly/2Jljlfz) emitido por Dataquest em 5 de dezembro de 2019*
+
+Foram realizados os dois primeiros cursos do módulo _Data Scientist in Python_, dando ênfase à programação orientada a objetos, limpeza e preparo de dados em Python e escrita dos primeiros projetos guiados em Jupyter notebook. Também foram exploradas noções iniciais dos módulos _numpy_, _pandas_ e _matplotlib_.
+
+Os projetos guiados podem ser conferidos [neste repositório](https://bit.ly/3nZ4Aht).
+
+### Maestro: aula digital
+
+Durante o período de isolamento social imposto pela COVID19, ministrei aulas remotamente, utilizando a plataforma Maestro, adotada pela instituição de ensino na qual trabalhei nesse período. Na criação semanal de videoconferências, as aulas ocorriam nos mesmos dias e horários. [Escrevi](https://github.com/pbittencourt/scripts/tree/master/maestro), então, um pequeno script em Python para ler dados de um arquivo csv, acessar o browser via selenium e criar as aulas digitais.
+
+### Notas online
+
+Uma das instituições de ensino na qual lecionei utiliza diários de classe digitais, nos quais são lançados registros diversos, tais como conteúdos, ausências e ocorrências. Este processo, entretanto, é repetitivo e entediante. Ademais, a interface do sistema é muito antiga e contém problemas de navegação. Foi pensando nesses problemas que [escrevi](https://github.com/pbittencourt/scripts/tree/master/notas_online) alguns scripts em Python para automatizar 
+meu fluxo de trabalho.
+
 ## Produções relacionadas
+
+### Podcast
+
+### Videoaulas
+
+### Blog
+
+### Apoio visual
