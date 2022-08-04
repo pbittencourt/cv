@@ -84,10 +84,18 @@ meu fluxo de trabalho.
 
 ## Produções relacionadas
 
-### Podcast
+### 🎤 Podcast
 
-### Videoaulas
+Entre 2017 e 2019, lancei [programas em áudio](pedrobittencourt.com.br/podcast) tecendo reflexões a respeito de ensino, educação e outras ficções. Eles podem ser conferidos via assinatura em aplicativos específicos de podcast (como, por exemplo, Google Podcasts), pelo Spotify ou pela Apple Podcasts, todos de forma gratuita.
 
-### Blog
+### 🎥 Videoaulas
 
-### Apoio visual
+Acreditando no potencial de aulas invertidas, procurei produzir aulas em vídeo para utilizar com minhas turmas. O material, disponibilizado [em meu canal do Youtube](pedrobittencourt.com.br/videos), costuma ser utilizado por estudantes em momentos de revisão e reforço escolar. Meu canal abriga, também, outras produções relacionadas ao ensino, tais como o curso de Inkscape para apresentações de slides e episódios de meu podcast.
+
+### 📰 Blog
+
+Aproveitando as reflexões feitas para a produção de meu podcast, escrevo, de maneira relativamente esporádica, algumas [linhas tortas em meu blog](pedrobittencourt.com.br/blog), na "ativa" há pouco mais de oito anos.
+
+### 📚 Apoio visual
+
+Em minhas aulas de física e matemática, trabalhando com temas geralmente abstratos, que necessitam de um bom apoio visual, tive o costume de utilizar, sempre que possível, apresentações de slides, desenhadas parcial ou integralmente por mim, utilizando programas de código aberto, como o Inkscape. Atualmente, meu catálogo possui pouco mais de 60 apresentações, [disponíveis de forma gratuita](pedrobittencourt.com.br/aulas) em meu site, podendo ser utilizadas por outros profissionais da educação.
